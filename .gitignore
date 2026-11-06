@@ -17,7 +17,7 @@ out/
 .classpath
 .settings/
 
-# Local dependency libraries
+# Local libraries
 lib/
 
 # Logs and temporary files
